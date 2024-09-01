@@ -1,10 +1,10 @@
                                            🎉BIENVENIDO🎉
 
-SOY UN CHICO NUEVO EN LA PROGRAMACION LLEVO 1 MESS DE CONOCIMIENTOS MIS LENGUAJES SON:
-
-PYTHON,HTML,JAVASCRIPT Y UN POCO DE C++ 😊
-
-QUISIERA APRENDER MUCHO MAS AL PASAR DEL TIEMPO
-
+- Hola, soy @rodss2
+- 👀 Me interes: Mucho la programacion
+- 🌱Actualmente estoy aprendiendo: Python,Html,JavaScript y un poco de c++
+- 📫 Cómo llegar a mí mis: wiliamcelinroblox@gmail.com
+- 😄 Pronombres: Javier
+- ⚡ Dato curioso: Me gusta jugar y ala vez programar
 
                                🤖 print(“Hola, Mundo”)
