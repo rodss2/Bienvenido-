@@ -1,1 +1,10 @@
-Hola
+                                           🎉BIENVENIDO🎉
+
+SOY UN CHICO NUEVO EN LA PROGRAMACION LLEVO 1 MESS DE CONOCIMIENTOS MIS LENGUAJES SON:
+
+PYTHON,HTML,JAVASCRIPT Y UN POCO DE C++ 😊
+
+QUISIERA APRENDER MUCHO MAS AL PASAR DEL TIEMPO
+
+
+                               🤖 print(“Hola, Mundo”)
